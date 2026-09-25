@@ -551,7 +551,11 @@ function init(){
   $('thresholdSelect').value=String(threshold);
   var now=new Date();$('inputTime').value=pad(now.getHours())+':00';
   renderDateBar();renderTemplates();renderHeader();renderToday();bindEvents();
-  if(isGhConfigured()){setTimeout(function(){pullFromGitHub(true)},500)}
+if(isGhConfigured()){setTimeout(function(){
+  pullFromGitHub(true).then(function(ok){
+    if(ok)console.log('已自动从 GitHub 拉取最新数据');
+  });
+},500)}
 }
 
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init);else init();
