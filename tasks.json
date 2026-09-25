@@ -1,28 +1,3 @@
 {
-  "2026-09-26": [
-    {
-      "id": "muh9hbxguwq1bp",
-      "text": "测试推送",
-      "time": "01:58",
-      "done": false
-    },
-    {
-      "id": "muh9no6q9y5f0x",
-      "text": "测试",
-      "time": "02:04",
-      "done": false
-    },
-    {
-      "id": "muh9w0m2aksl3m",
-      "text": "测试",
-      "time": "02:08",
-      "done": false
-    },
-    {
-      "id": "muhb3hya3f1f44",
-      "text": "测试测试",
-      "time": "02:43",
-      "done": false
-    }
-  ]
+  "2026-09-26": []
 }
