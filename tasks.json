@@ -1,7 +1,52 @@
 {
   "2026-09-26": [
-    { "id": "t1", "text": "给宝宝喂奶", "time": "07:00", "done": false },
-    { "id": "t2", "text": "拍嗝", "time": "07:30", "done": false },
-    { "id": "t3", "text": "换尿布", "time": "08:00", "done": false }
+    {
+      "id": "muh7q8qhrtq2br",
+      "text": "给宝宝喂奶",
+      "time": "07:00",
+      "done": false
+    },
+    {
+      "id": "muh7q8qhtwkx7c",
+      "text": "拍嗝",
+      "time": "07:30",
+      "done": false
+    },
+    {
+      "id": "muh7q8qhezrdyk",
+      "text": "换尿布",
+      "time": "08:00",
+      "done": false
+    },
+    {
+      "id": "muh7q8qhokzb0v",
+      "text": "脐带消毒",
+      "time": "09:00",
+      "done": false
+    },
+    {
+      "id": "muh7q8qh4t0uqb",
+      "text": "准备月子餐",
+      "time": "11:00",
+      "done": false
+    },
+    {
+      "id": "muh7q8qhjzx8jq",
+      "text": "给宝宝洗澡",
+      "time": "14:00",
+      "done": false
+    },
+    {
+      "id": "muh7q8qhfvx4wp",
+      "text": "做抚触",
+      "time": "15:00",
+      "done": false
+    },
+    {
+      "id": "muh7q8qhu5bbcf",
+      "text": "记录喂养时间",
+      "time": "20:00",
+      "done": false
+    }
   ]
 }
